@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 90a1f6e0925321b48a74eb720e5d26bd
+  productGUID: efe9ab973f5033f4286c09b5cc3034d1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -721,10 +721,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 05507beb-da35-4b1b-b937-c6488b150a89
+  cloudProjectId: d0045820-b9cf-4d60-82f1-6e1b4119e2c3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: zandrada_Hour1
+  projectName: zandrada_Hour1 2026-08-27_09-38-20
   organizationId: zandradamtavo3ki
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
