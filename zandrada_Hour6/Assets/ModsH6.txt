@@ -1,0 +1,32 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Multiple Finish Zones
+- Added two finish zones to the level.
+- The level has two different routes that give the player a choice:
+1. A dangerous/shorter route with a vertical jumping section.
+2. A longer route where the player must navigate around cactus hazards.
+
+B. New Hazards
+- Added a cactus hazard. If the player touches the cactus, the player respawns.
+- Added a fall hazard. If the player misses the jumping platforms and falls, the player respawns.
+
+C. Verticality
+- Added an elevated jumping section to the dangerous/shortcut route.
+- Added pillars as platforms that require the player to use the Spacebar to jump between them.
+- If the player misses a jump, they fall and are respawned.
+
+D. Theme / Sky
+- Changed the level to a desert ruin theme.
+- Changed the sky to fit the desert theme.
+
+3D model source url:
+https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
+
+3D model source url:
+https://assetstore.unity.com/packages/3d/environments/simple-modular-pillars-255707
